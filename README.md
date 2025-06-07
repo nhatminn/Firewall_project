@@ -4,11 +4,11 @@ This project demonstrates a custom Linux firewall configured using `iptables` on
 
 ## 📁 Project Structure
 firewall-project/ 
-├── firewall.sh # Activates the custom firewall rules 
-├── reset.sh # Resets all firewall rules to allow all traffic 
-├── logs/ 
-│ └── firewall.log # Captures dropped packets (logged via kernel) 
-└── README.md # This documentation file
+ firewall.sh # Activates the custom firewall rules 
+ reset.sh # Resets all firewall rules to allow all traffic 
+     logs/ 
+     firewall.log # Captures dropped packets (logged via kernel) 
+     README.md # This documentation file
 
 ## 🚀 Features
 
