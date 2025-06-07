@@ -3,7 +3,7 @@
 This project demonstrates a custom Linux firewall configured using `iptables` on Kali Linux. It’s designed to simulate a Security Operations Center (SOC) engineer's approach to controlling network traffic and defending a system.
 
 ## 📁 Project Structure
-firewall-project/ 
+firewall-project/
  firewall.sh # Activates the custom firewall rules 
  reset.sh # Resets all firewall rules to allow all traffic 
      logs/ 
